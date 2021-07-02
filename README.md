@@ -1,4 +1,6 @@
-### Just someone who knows basic JavaScript/Python and shell scripting 🔰
+### {
+###   "languages": ["python", "javascript", "bash"]
+### }
 
 <!--
 **Mini-Ware/Mini-Ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
