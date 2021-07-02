@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just someone who knows basic JavaScript and Python
 
 <!--
 **Mini-Ware/Mini-Ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
