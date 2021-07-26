@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-![trophy](https://github-profile-trophy.vercel.app/?username=mini-ware&theme=onedark&row=2&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=mini-ware&theme=onedark&row=2&column=4)</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-ware&theme=dark)
 <!--
