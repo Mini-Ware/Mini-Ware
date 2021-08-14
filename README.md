@@ -1,4 +1,4 @@
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=dark)</br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-ware&theme=dark&layout=compact)
 ![Trophy Shelf](https://github-profile-trophy.vercel.app/?username=mini-ware&theme=onedark&row=1)
 <!--
