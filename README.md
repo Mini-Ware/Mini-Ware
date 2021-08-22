@@ -1,8 +1,16 @@
 # Profile
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=dark)
-# Experience
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-ware&theme=dark&layout=compact)</br>
-![Trophy](https://github-profile-trophy.vercel.app/?username=mini-ware&theme=onedark&row=2&column=3&margin-w=5)
+# Experience
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</br>
+![Trophy](https://github-profile-trophy.vercel.app/?username=mini-ware&theme=onedark&row=1&margin-w=5)
 <!--
 **Mini-Ware/Mini-Ware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
