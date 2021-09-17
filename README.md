@@ -1,3 +1,4 @@
+# Account Statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-ware&theme=gruvbox&layout=compact)</br>
 # Trophy Collection
