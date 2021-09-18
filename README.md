@@ -1,3 +1,4 @@
+<!--strictly no copying, noob-->
 |Statistics|Languages|
 |:---:|:---:|
 |![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mini-ware&show_icons=true&theme=onedark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-ware&theme=onedark&layout=compact&langs_count=6)|
