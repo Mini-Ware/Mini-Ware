@@ -1,4 +1,6 @@
-<svg width="350" height="165" viewBox="0 0 350 165" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="165" viewBox="0 0 350 165" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+        <title id="titleId"/>
+        <desc id="descId"/>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -53,17 +55,17 @@
       <rect x="0" y="0" width="300" height="8" fill="white" rx="5"/>
     </mask>
     
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="180.9" height="8" fill="#f1e05a"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="175.47" height="8" fill="#f1e05a"/>
       
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="180.9" y="0" width="73.81" height="8" fill="#3572A5"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="175.47" y="0" width="54.7" height="8" fill="#3572A5"/>
       
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="254.71" y="0" width="20.05" height="8" fill="#89e051"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="230.17000000000002" y="0" width="41.22" height="8" fill="#b07219"/>
       
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="274.76" y="0" width="19.82" height="8" fill="#e34c26"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="271.39" y="0" width="14.86" height="8" fill="#89e051"/>
       
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="284.58" y="0" width="18.73" height="8" fill="#555555"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="286.25" y="0" width="17.27" height="8" fill="#e34c26"/>
       
-        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="293.31" y="0" width="16.69" height="8" fill="#563d7c"/>
+        <rect mask="url(#rect-mask)" data-testid="lang-progress" x="293.52" y="0" width="16.47" height="8" fill="#555555"/>
       
 
     <g transform="translate(0, 25)">
@@ -71,42 +73,42 @@
     <g>
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        JavaScript 60.30%
+        JavaScript 58.49%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
       <circle cx="5" cy="6" r="5" fill="#3572A5"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Python 24.60%
+        Python 18.23%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g>
-      <circle cx="5" cy="6" r="5" fill="#89e051"/>
+      <circle cx="5" cy="6" r="5" fill="#b07219"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Shell 6.68%
+        Java 13.74%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g>
-      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
+      <circle cx="5" cy="6" r="5" fill="#89e051"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        HTML 3.27%
+        Shell 4.95%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g>
-      <circle cx="5" cy="6" r="5" fill="#555555"/>
+      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        C 2.91%
+        HTML 2.42%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g>
-      <circle cx="5" cy="6" r="5" fill="#563d7c"/>
+      <circle cx="5" cy="6" r="5" fill="#555555"/>
       <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        CSS 2.23%
+        C 2.16%
       </text>
     </g>
   </g></g>
