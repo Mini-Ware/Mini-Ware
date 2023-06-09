@@ -1,3 +1,5 @@
+<div align="center">
+
 <!--I have seen many cases of people copying this without credit, please remember to give credit or I might threathen future takedowns--><!--I have seen many cases of people copying this without credit, please remember to give credit or I might threathen future takedowns-->
 <!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->
 |<!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->|<!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->|<!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->|
@@ -9,3 +11,5 @@
 |<!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->|<!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->
 <!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3--><!--Remember to give credits when using my readme, this repo is licenced under GPL v3-->
 <!--I have seen many cases of people copying this without credit, please remember to give credit or I might threathen future takedowns--><!--I have seen many cases of people copying this without credit, please remember to give credit or I might threathen future takedowns-->
+
+</div>
